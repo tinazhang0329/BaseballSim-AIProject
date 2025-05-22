@@ -6,7 +6,7 @@ This document summarizes how team members Tina and Ying Wang collaborated to com
 
 ## 👥 Team Members
 
-- **Tina** – Lead on data integration and simulation testing  
+- **Tina Zhang** – Lead on data integration and simulation testing  
 - **Ying Wang** – Lead on Monte Carlo simulation code and documentation structure
 
 ---
