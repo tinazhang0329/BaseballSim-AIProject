@@ -43,7 +43,7 @@ All AI-generated content was reviewed and edited by the project contributor.
 
 ## 👤 Author
 
-- **Tina Zhang** –
+- **Tina Zhang** 
 - **Ying Wang**
-"""
+
 
