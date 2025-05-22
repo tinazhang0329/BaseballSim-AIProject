@@ -1,0 +1,19 @@
+Author: Andrew D'Amico
+Email: Andrew.Damico@u.northwestern.edu
+Data Dict
+
+Standard Batting
+* - bats left-handed, # - bats both, else - bats right, ? - unknown
+
+Standard Pitching
+* - throws left-handed, # - throws both, else - throws right, ? - unknown
+
+Value Batting
+WAR Explained (v2.2): 8+ MVP, 5+ A-S, 2+ Starter, 0-2 Sub, < 0 Repl
+* - bats left-handed, # - bats both, else - bats right, ? - unknown
+
+Value Pitching
+WAR Explained (v2.2): 8+ MVP, 5+ A-S, 2+ Starter, 0-2 Sub, < 0 Repl
+* - throws left-handed, # - throws both, else - throws right, ? - unknown
+
+All tables from baseball-reference.com
