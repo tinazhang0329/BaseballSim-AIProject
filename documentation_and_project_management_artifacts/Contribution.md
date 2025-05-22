@@ -1,4 +1,4 @@
-# 🤝 Team Collaboration and AI Usage – Baseball Season Simulation
+# Team Collaboration and AI Usage – Baseball Season Simulation
 
 This document summarizes how team members Tina and Ying Wang collaborated to complete the baseball simulation project, including the use of AI tools in both documentation and technical development.
 
