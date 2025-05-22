@@ -1,4 +1,4 @@
-#  Product Backlog Management Process – Baseball Season Simulation
+#  Product Backlog  – Baseball Season Simulation
 
 This document outlines how the team manages its product backlog—a prioritized list of features, bugs, and technical tasks—for the Baseball Season Simulation project.
 
