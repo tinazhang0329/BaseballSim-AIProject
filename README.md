@@ -7,9 +7,12 @@ This project uses Monte Carlo simulation to estimate season win totals for Major
 ---
 
 ## 📂 Project Structure
-├── data/ # Cleaned input data (e.g., team stats, schedules)
-├── functional_code/ # Python code for simulation logic
-├── results/ # Simulation outputs (e.g., win totals CSV)
+├── data/
+│ └── # Cleaned input data (e.g., team stats, schedules)
+├── functional_code/
+│ └── # Python code for simulation logic
+├── results/
+│ └── # Simulation outputs (e.g., win totals CSV)
 ├── documentation_and_project_management_artifacts/
 │ ├── Functional_Specs/ # Functional requirements
 │ ├── Work_Breakdown_Structure/ # WBS markdown
