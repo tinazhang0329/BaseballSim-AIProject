@@ -26,8 +26,6 @@ This project uses Monte Carlo simulation to estimate season win totals for Major
   ├─ `Activity_List/` – AI usage log and timestamps  
   └─ `Roadmap/` – Timeline of work
 
-- `supplementary_code/`  
-  └─ `raw_data_processing/` – Optional data cleaning utilities
 
 
 ---
